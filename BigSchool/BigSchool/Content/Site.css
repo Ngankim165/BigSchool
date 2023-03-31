@@ -58,6 +58,11 @@ textarea {
 
 .course > li .details {
     position: absolute;
-    top: 8px;
+    top: 0px;
+    left: 70px;
+}
+
+.course > li .action {
+    display: block;
     left: 70px;
 }

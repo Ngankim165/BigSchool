@@ -121,3 +121,4 @@ D:\Studying\Jobs\Hutech-KimNgan\BigSchool\BigSchool\bin\System.Web.Http.WebHost.
 D:\Studying\Jobs\Hutech-KimNgan\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources
 D:\Studying\Jobs\Hutech-KimNgan\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddLectureNametoCourseTable.resources
 D:\Studying\Jobs\Hutech-KimNgan\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CustomUsername.resources
+D:\Studying\Jobs\Hutech-KimNgan\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddIsCanceledColumnToCourse.resources
